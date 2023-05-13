@@ -21,7 +21,7 @@ function openForm() {
   }
   function Ac(){
     event.preventDefault();
-     var Account= document.getElementById("Account").innerText="Niyati";
+     var Account= document.getElementById("Account").innerText="User";
      document.getElementById("otpform").style.display = "none";
    console.log(Account);
     }
