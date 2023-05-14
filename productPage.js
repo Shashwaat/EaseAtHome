@@ -124,22 +124,6 @@ var bestseller = [
     
     
    
-
-   
-    {
-      name: "Half legs waxing",
-      rating: "4.75(32.4k)",
-      price: 199,
-      strikeprice:249,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657100956556-058979.png",
-      thread1: "choose from regular RICA & honey wax",
-      thread2: "",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
     {
       name: "Half arms",
       rating: "4.75(6.7k)",
