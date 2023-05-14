@@ -123,20 +123,7 @@ var bestseller = [
     
     
     
-    {
-      name: "Back",
-      rating: "4.80(1.7k)",
-      price: 499,
-      strikeprice:599,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657100988948-0b5dcc.png",
-      thread1: "cove the area from sholder to pelvis",
-      thread2: "",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
+   
     {
       name: "Underarms",
       rating: "4.74(14.3k)",
