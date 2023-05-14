@@ -140,20 +140,7 @@ var bestseller = [
     },
     
   
-    {
-      name: "Specialized facial",
-      rating: "4.74(14.4k)",
-      price: 1299,
-      strikeprice:1387,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/supply/customer-app-supply/1634707052569-4bc6a6.png",
-      thread1: "facials for aging, pegments & sensitive skin",
-      thread2:"",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
+    
   ];
   var manicure = [
     {
