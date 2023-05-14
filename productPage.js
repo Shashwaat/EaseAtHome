@@ -341,20 +341,7 @@ var bestseller = [
         thread5: "",
         thread6: "",
     },
-    {
-        name: "Head massage",
-        rating: "4.75(63.7k)",
-        price: 299,
-        strikeprice:399,
-        image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657524725157-0eea37.png",
-        thread1:"Relaxing oil massage to relive stress & promote hair growth",
-        thread2: "",
-        thread3: "",
-        thread4: "",
-        thread5: "",
-        thread6: "",
-    },
+   
     
   ]
   bestsellerdisplay();
