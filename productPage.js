@@ -120,20 +120,7 @@ var bestseller = [
   
     },
    
-    {
-      name: "Full legs waxing",
-      rating: "4.81(29.5k)",
-      price: 349,
-      strikeprice:479,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657100965594-2ddc55.png",
-      thread1: "",
-      thread2: "",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
+    
     {
       name: "Full body",
       rating: "4.81(4.8k)",
