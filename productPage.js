@@ -124,21 +124,7 @@ var bestseller = [
     
     
    
-   
-    {
-      name: "Bikini",
-      rating: "4.82(10.5k)",
-      price: 949,
-      strikeprice:1099,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657100982244-701c4a.png",
-      thread1: "choose from RICA peel-off & honey wax",
-      thread2: "cover the entire pelvis area",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
+
     {
       name: "Bikini line",
       rating: "4.82(682)",
