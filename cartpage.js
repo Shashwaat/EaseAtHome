@@ -5,7 +5,7 @@ var totfinal = 0;
 displaydata(cartpage);
 
 displayprice(cartpage);
-
+//function displaydata
 function displaydata(cp) {
   document.getElementById("container").innerText = "";
   cp.map(function (elem, index) {

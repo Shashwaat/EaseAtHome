@@ -36,7 +36,7 @@ body{
 .fourty-three div a{
     text-decoration: none;
     text-align: center;
-    color: white;
+    color: rgb(233, 225, 225);
     font-weight: bold;
 }
 
@@ -69,7 +69,7 @@ body{
     font-size: large;
 }
 .fourty-two div a{
-    color: white;
+    color: rgb(233, 232, 232);
     margin: 5px;
     text-decoration: none;
     padding-bottom: 5px;

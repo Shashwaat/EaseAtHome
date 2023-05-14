@@ -101,22 +101,7 @@ var bestseller = [
       thread6: "Head massage(20 min)",
       thread7: "",
     },
-    {
-      pack: "PACKAGE",
-      name: "Make your own package",
-      rating: "4.77(144.5k)",
-      price: 1800,
-      strikeprice: 2202,
-      time: "2 hrs 50 mins",
-      discount: " 20% 3rd person onwards",
-      thread1: "Elysian Pinacolada Fruit cleanup",
-      thread2: "Full legs Honey ",
-      thread3: "Full arms + Underarms Honey",
-      thread4: "Head massage(20 min)",
-      thread5: "Face & neck bleach",
-      thread6: "Eyebrow threading",
-      thread7: "Upper lip threading",
-    },
+    
   ];
   var waxing = [
     {

@@ -17,7 +17,7 @@ function openForm() {
         document.getElementById("number").innerText="We have sent you a 4 digit OTP on " +full+" edit";
       
     }
-  
+  //AC function
   }
   function Ac(){
     event.preventDefault();
