@@ -121,20 +121,7 @@ var bestseller = [
     },
    
     
-    {
-      name: "Full body",
-      rating: "4.81(4.8k)",
-      price: 1399,
-      strikeprice:1599,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657100967218-f08380.png",
-      thread1: "choose full arms, full legs, underarms, chest, stomack & back",
-      thread2: "",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
+    
     {
       name: "Stomach",
       rating: "4.76(3.4k)",
