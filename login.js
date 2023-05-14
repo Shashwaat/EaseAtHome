@@ -3,7 +3,7 @@ function openForm() {
     document.getElementById("myForm").style.display = "block";
    
   }
-  
+  //closeform
   function closeForm() {
     document.getElementById("myForm").style.display = "none";
   }
@@ -17,7 +17,7 @@ function openForm() {
         document.getElementById("number").innerText="We have sent you a 4 digit OTP on " +full+" edit";
       
     }
-  //AC function
+  //AC 
   }
   function Ac(){
     event.preventDefault();
