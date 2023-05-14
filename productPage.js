@@ -122,20 +122,7 @@ var bestseller = [
    
     
     
-    {
-      name: "Stomach",
-      rating: "4.76(3.4k)",
-      price: 299,
-      strikeprice:399,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657100955968-c5b3f1.png",
-      thread1: "choose area below bust to pievis",
-      thread2: "",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
+    
     {
       name: "Back",
       rating: "4.80(1.7k)",
