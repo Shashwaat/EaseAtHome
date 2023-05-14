@@ -119,20 +119,7 @@ var bestseller = [
       thread6: "",
   
     },
-    {
-      name: "Full arms + Underarms",
-      rating: "4.78(45.2k)",
-      price: 309,
-      strikeprice:400,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657100969960-ef6f74.png",
-      thread1: "We use RICA peel-off for underarm waxing",
-      thread2: "",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
+   
     {
       name: "Full legs waxing",
       rating: "4.81(29.5k)",
