@@ -124,20 +124,7 @@ var bestseller = [
     
     
    
-    {
-      name: "Underarms",
-      rating: "4.74(14.3k)",
-      price: 49,
-      strikeprice:79,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/supply/customer-app-supply/1655288839372-c90f8e.png",
-      thread1: "choose from RICA peel-off & honey wax",
-      thread2: "",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
+   
     {
       name: "Bikini",
       rating: "4.82(10.5k)",
