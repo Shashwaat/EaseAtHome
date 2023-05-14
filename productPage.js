@@ -121,23 +121,6 @@ var bestseller = [
     },
    
     
-    
-    
-   
-   
-    {
-      name: "Face wax",
-      rating: "4.77(22.2k)",
-      price: 69,
-      strikeprice:89,
-      image_url:"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto,w_96,dpr_1,h_96,fl_progressive:steep,q_auto/images/growth/luminosity/1658988752247-347188.png",
-      thread1:"RICA peel-off wax to remove even the tiniest, hard to remove hair",
-      thread2: "Recommonded of all skin type, perticular skin type",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
   ];
   
   var facial = [
@@ -155,34 +138,8 @@ var bestseller = [
       thread5: "",
       thread6: "",
     },
-    {
-      name: "Classic facial",
-      rating: "4.76(64.5k)",
-      price: 1099,
-      strikeprice:1199,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/supply/customer-app-supply/1634707058605-fd6260.png",
-      thread1: "7 step process, Glow ingrediants, include 20 min massage",
-      thread2:"",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
-    {
-      name: "Signature facial",
-      rating: "4.76(86.6k)",
-      price: 1199,
-      strikeprice:1249,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/supply/customer-app-supply/1634714666502-19511c.png",
-      thread1: "7-9 step process, premium glow ingrediants, 10 min massage",
-      thread2:"",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
+    
+  
     {
       name: "Specialized facial",
       rating: "4.74(14.4k)",
