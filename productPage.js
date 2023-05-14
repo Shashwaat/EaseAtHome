@@ -125,20 +125,7 @@ var bestseller = [
     
    
 
-    {
-      name: "Bikini line",
-      rating: "4.82(682)",
-      price: 249,
-      strikeprice:347,
-      image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/supply/customer-app-supply/1655288871618-0d6809.png",
-      thread1: "choose from RICA peel-off & honey wax",
-      thread2: "only cover the entire peivis around area(not the pelvis)",
-      thread3: "",
-      thread4: "",
-      thread5: "",
-      thread6: "",
-    },
+   
     {
       name: "Half legs waxing",
       rating: "4.75(32.4k)",
