@@ -355,20 +355,7 @@ var bestseller = [
         thread5: "",
         thread6: "",
     },
-    {
-        name: "Lorial hair spa",
-        rating: "4.64(1.2k)",
-        price: 1249,
-        strikeprice:1349,
-        image_url:
-        "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657524725660-93d095.png",
-        thread1:"Therapetic hair spa tratment for healty &  nourised hair",
-        thread2: "",
-        thread3: "",
-        thread4: "",
-        thread5: "",
-        thread6: "",
-    }
+    
   ]
   bestsellerdisplay();
   makeyourownpackageDisplay();
