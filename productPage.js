@@ -354,7 +354,7 @@ var bestseller = [
   bleachdisplay();
   haircolourdisplay();
   
-  //event & localStorage
+  //even
   var cartpage=JSON.parse(localStorage.getItem("items"))||[];
   var total=(localStorage.getItem("totalvalue"))||0;
   
