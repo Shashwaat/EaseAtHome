@@ -5,7 +5,7 @@ var totfinal = 0;
 displaydata(cartpage);
 
 displayprice(cartpage);
-//functio
+
 function displaydata(cp) {
   document.getElementById("container").innerText = "";
   cp.map(function (elem, index) {
@@ -181,7 +181,7 @@ function removefromcart(elem, index) {
   totfinal = tfinal;
 
   // tot = tot - elem.price;
-  // localStorage.setItem("total", tot);
+  
   localStorage.setItem("items", JSON.stringify(cartpage));
   displaydata(cartpage);
 
