@@ -494,10 +494,10 @@ ul{
 }
 .footerBasic .serving{
     padding: 18px 0;
-    border-top: 1px solid #424242;
+    border-top: 1px solid #2c2c2c;
 }
 .footerBasic .serving p{
-    color: #fff;
+    color: #f1eaea;
     font-weight: 600;
     font-size: 14px;
     margin-bottom: 8px;

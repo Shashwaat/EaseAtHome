@@ -105,7 +105,7 @@ body{
   }
   .category_1 > a {
     text-decoration: none;
-    color: black;
+    color: rgb(5, 5, 5);
   }
   #point > img {
     width: 70px;
@@ -188,7 +188,7 @@ body{
     background-color: white;
   }
   .learn_more .l_more {
-    color: rgb(60, 60, 210);
+    color: rgb(38, 38, 170);
   }
   .learn_more .ll_more {
     color: rgb(163, 163, 170);
