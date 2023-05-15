@@ -165,7 +165,7 @@ function removefromcart(elem, index) {
   var tot = localStorage.getItem("totalvalue");
   tot = parseInt(tot) - parseInt(elem.price);
   localStorage.setItem("totalvalue", tot);
-  // num.innerText =  quant;
+ 
   document.getElementById("total").innerText =
     localStorage.getItem("totalvalue");
 
