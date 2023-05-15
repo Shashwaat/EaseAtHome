@@ -13,10 +13,10 @@
 
   }
   .form-popup h3{
-    color: black;
+    color: rgb(7, 4, 4);
   }
   .form-popup i{
-    color: black;
+    color: rgb(14, 12, 12);
   }
   input{
     outline: none;
@@ -76,7 +76,7 @@
       margin: auto;
       margin-top: 30px;
       background-color: black;
-      color: rgb(223, 222, 222);
+      color: rgb(240, 234, 234);
       padding: 10px 0px;
       font-size: 20px;
       border-radius:5px

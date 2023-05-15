@@ -177,7 +177,7 @@ function removefromcart(elem, index) {
 
   var tfinal = parseInt(tot) + parseInt(discount) + parseInt(fee);
   document.getElementById("totalfinal").innerText = "₹" + tfinal;
-  //////imp
+  
   totfinal = tfinal;
 
   // var tot = localStorage.getItem("total");
