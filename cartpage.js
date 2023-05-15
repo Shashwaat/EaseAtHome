@@ -152,7 +152,7 @@ function minusItem(elem, num, index) {
 
     var tfinal = parseInt(tot) - parseInt(discount) + parseInt(fee);
     document.getElementById("totalfinal").innerText = "₹" + tfinal;
-    //////imp
+    
     totfinal = tfinal;
   } else if (quant == 0) {
     removefromcart(elem, index);
