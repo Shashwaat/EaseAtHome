@@ -33,7 +33,7 @@ function displaydata(cp) {
     pricediv.append(plusminusdiv, divforprice);
     plusminusdiv.setAttribute("id", "price");
     namediv.append(name, pricediv);
-    // quantity plus and minus
+    // quantity 
     plus.addEventListener("click", function () {
       plusItem(elem, num);
     });
