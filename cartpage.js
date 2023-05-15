@@ -189,7 +189,6 @@ function removefromcart(elem, index) {
   displayprice(cartpage);
 }
 
-// *****Proceed to pay ********
 document.getElementById("OrderPlace").addEventListener("click", proceed);
 function proceed() {
   localStorage.setItem("totalvalue", totfinal);
