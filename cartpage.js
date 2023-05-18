@@ -180,7 +180,7 @@ function removefromcart(elem, index) {
   
   totfinal = tfinal;
 
-  // tot =
+  
   
   localStorage.setItem("items", JSON.stringify(cartpage));
   displaydata(cartpage);
