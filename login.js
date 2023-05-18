@@ -3,7 +3,7 @@ function openForm() {
     document.getElementById("myForm").style.display = "block";
    
   }
-  //close
+  
   function closeForm() {
     document.getElementById("myForm").style.display = "none";
   }
