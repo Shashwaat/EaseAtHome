@@ -8,7 +8,7 @@
   document.getElementById("flex7").addEventListener("click", p7);
    document.getElementById("flex8").addEventListener("click", p8);
    document.getElementById("flex9").addEventListener("click", p9);
-    // ***********Estimated Saving********
+    
 
   document.getElementById("two").addEventListener("click", two);
   document.getElementById("four").addEventListener("click", four);
